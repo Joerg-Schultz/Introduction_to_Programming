@@ -8,8 +8,8 @@ So, here's a [video](https://www.youtube.com/watch?v=zqo08bQXU4Q&list=PLQkwcJG4Y
 
 ### Actions
 
-1. make a repository for your current project and push it to GitHub. [This video](https://www.youtube.com/watch?v=-7fyiIh-GX4&list=PLQkwcJG4YTCQTEk4J4btiOJBV0PhKjJVS&index=2) explains how to do this. Don't worry about Philipp using Android Studio, it works just the same in Intellij IDEA. And it is awesome that he explains how to use Git on the command line. Still, don't get overwhelmed, he also shows how to do this with a few clicks in the IDE.
-2. 
+1. make a repository for your current project. [This video](https://www.youtube.com/watch?v=-7fyiIh-GX4&list=PLQkwcJG4YTCQTEk4J4btiOJBV0PhKjJVS&index=2) explains how to do this. Don't worry about Philipp using Android Studio, it works just the same in Intellij IDEA. And it is awesome that he explains how to use Git on the command line. Still, don't get overwhelmed, he also shows how to do this with a few clicks in the IDE.
+2. Now you have a repository, push it to GitHub! You have to create a GitHub account, in case you don't have one yet. The follow [this video](https://www.youtube.com/watch?v=4arVMGJ0_Ww&list=PLQkwcJG4YTCQTEk4J4btiOJBV0PhKjJVS&index=6) and see how your code is no accessible via GitHub!
 ---
 
 [back](../README.md)

@@ -80,12 +80,16 @@ Programming Tools
 11. [for and ranges](./ControlStatements/for.md): Where you will execute a code block for a given number of times.
 12. [Android: Add real functionality to button](./DiceApp/addfunctionstobutton.md): Where you will add some real functionality to your button.
 
+[Bonus Section](./ProgrammingTools/git.md): Make your code available to the whole word by by following the second action point.
+
 #### 4. Collections
 13. [Lists](./Collections/lists.md): Where you will work with a container that can hold multiple things
 14. [Sets](./Collections/sets.md): Where you will generate Containers which contain just unique elements.
 15. [Maps](./Collections/maps.md): Where you will learn to build a key-value stat structure.
 16. [Summary](./Collections/wrap_up.md): Just a summary of all these Collections plus some additional cool functions to work with them.
 17. [Android: Store values in list](./DiceApp/randomvaluelist.md): Where you will generate a list of the random values and display this growing list in a text field.
+
+[Bonus Section](./ProgrammingTools/documentation.md): Learn how to document your code! Check the 'Code Documentation' and 'API Documentation' sections and install Dokka! And of course don't forget to push your changes to GitHub!
 
 #### 5. Classes
 18. [Classes](./Classes/classes.md): Where you will have first contact with the basic unit of object-oriented programming - the class.
@@ -94,7 +98,6 @@ Programming Tools
 21. [Android: generate a dice class](./DiceApp/classes.md): Where you will code your first class and extract functionality from the fragment into the class.
 22. [Android: generate a coin class using inheritance](./DiceApp/inheritance.md): Where you will use inheritance to generate a new Coin class.
 
-[Bonus Section](./ProgrammingTools/documentation.md): Learn how to document your code! Check the 'Code Documentation' and 'API Documentation' sections and install Dokka!
 
 #### 6. MVVM + View binding
 
