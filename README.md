@@ -80,7 +80,7 @@ Programming Tools
 11. [for and ranges](./ControlStatements/for.md): Where you will execute a code block for a given number of times.
 12. [Android: Add real functionality to button](./DiceApp/addfunctionstobutton.md): Where you will add some real functionality to your button.
 
-[Bonus Section](./ProgrammingTools/git.md): Make your code available to the whole word by by following the second action point.
+[Bonus Section](./ProgrammingTools/git.md): Make your code available to the whole word by following the second action point.
 
 #### 4. Collections
 13. [Lists](./Collections/lists.md): Where you will work with a container that can hold multiple things
@@ -98,12 +98,14 @@ Programming Tools
 21. [Android: generate a dice class](./DiceApp/classes.md): Where you will code your first class and extract functionality from the fragment into the class.
 22. [Android: generate a coin class using inheritance](./DiceApp/inheritance.md): Where you will use inheritance to generate a new Coin class.
 
+[Bonus Section](./ProgrammingTools/testing.md): Learn why automated testing can speed up your programming by working through the theory section.
 
 #### 6. MVVM + View binding
 
 23. [Android: ViewModels](DiceApp/viewmodel.md): Where you will keep information even when rotating your phone
 24. [Android: View Binding](DiceApp/viewbinding.md): Where you will learn a cooler way to interact with your UI elements.
 
+[Bonus Section](./ProgrammingTools/testing.md): Now let's implement tests for the Coin and the Dice class!
 
 #### 7. Navigation
 
