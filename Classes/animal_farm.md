@@ -9,7 +9,7 @@ To keep the Farm running, he needs to feed the animals, check their health statu
 ## The task
 In this exercise, you’re supposed to implement a simple farm with a variety of different animals. Since Old MacDonald is a very capitalistic farmer, he seeks to grow his business and sell his animals.
 So, your first basic task is to implement a Farm-class and different species of animals, which inherit from an Animal-class. Small hint: The different “barns” can simply be lists of the animals :wink:.
-All animals share data like “age”, “health”, “sex”, “diet”, “size” or functions like<span style="color:blue">Eat() , Sleep(), Shout()</span>  but differ in other aspects. A Monkey has an additional function <span style="color:blue">Climb()</span> or a Bird a function <span style="color:blue">Fly()</span> . 
+All animals share data like “age”, “health”, “sex”, “diet”, “size” or functions like <span style="color:blue">Eat() , Sleep(), Shout()</span>  but differ in other aspects. A Monkey has an additional function <span style="color:blue">Climb()</span> or a Bird a function <span style="color:blue">Fly()</span> . 
 A cows <span style="color:blue">Shout()</span>.-Function should return “Moooo!”, whereas a pigs Shout()-Function should return “Oink!”
 <br>
 
@@ -35,3 +35,7 @@ Here are a few ideas:
 7) You can generate money by selling animals. Older animals however, bring less income than young ones. Also: Young animals have a higher fertility rate than old ones.
 
 8) Oh, and of course you could collect these data and plot them later on interactively on your android-phone :-)
+
+---
+
+[back](../README.md)
