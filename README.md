@@ -78,8 +78,10 @@ Programming Tools
 #### 3. Control statements
 9. [if Statements (and Booleans)](./ControlStatements/ifstatements.md): Where you will learn how to test for conditions and then conditionally execute code.
 10. [while](./ControlStatements/while.md): Where you will find a first way to run the same code multiple time.
-11. [for and ranges](./blob/ControlStatements/for.md): Where you will execute a code block for a given number of times.
+11. [for and ranges](./ControlStatements/for.md): Where you will execute a code block for a given number of times.
 12. [Android: Add real functionality to button](./DiceApp/addfunctionstobutton.md): Where you will add some real functionality to your button.
+
+[Bonus Section](./ProgrammingTools/debugging.md): As you start using control statements, it might be useful to check when your programming actually is doing wht. A debugger will help you here!
 
 #### 4. Collections
 13. [Lists](./Collections/lists.md): Where you will work with a container that can hold multiple things
@@ -117,12 +119,9 @@ Programming Tools
 I don't see this as an extra 'lecture'. Work through these topics while programming your own app and gradually start adopting them. Still, I sprinkled some of the topics as 'bonus sections' in the Teaching units.
 
 1. [Versioning](./ProgrammingTools/git.md)
-2. [Documentation](./ProgrammingTools/documentation.md)
-3. [Testing](./ProgrammingTools/testing.md)
-
-**Debugging**
-
-A debugger can help you a lot when your programming is compiling (it is syntactically correct) but not doing what you want it to do. With a debugger you can step through your program and inspect the value of variables and any step (among other cool things).Nicely, the IntelliJ IDE has a debugger integrated. You can check a less than 10 min summary in [this video](https://www.youtube.com/watch?v=lAWnIP1S6UA).
+2. [Debugging](./ProgrammingTools/debugging.md)
+3. [Documentation](./ProgrammingTools/documentation.md)
+4. [Testing](./ProgrammingTools/testing.md)
 
 #### Program your own App!
 
