@@ -15,11 +15,11 @@ Together, these layers build the so called [MVVM (Model-View-ViewModel) Architec
 
 ### Actions
 
-Let's re-organize our code to follow the MVVM architecture and check, whether we now can rotate our phone.
+Let's re-organize our code to follow the MVVM architecture and check, whether we now can rotate our phone. [In the video](https://www.youtube.com/watch?v=MYCp7EpBR6s), I show how to do this for the list of throws. As a little homework, move the counter (how many times did we throw) from the fragment to the viewmodel. You can (and should :P ) even put the logic of the counter into the viewmodel, as it increases each time there is a throw. Clean separation of logic (viewmodel) and User Interface (fragment). Nice :-)
 
 ### Add On
 
-At the moment, we are explicitly reading the values from our viewmodel to get new values into our fragment. There is another, cooler way to do this. In short, you tell the viewmodel to inform the fragment whenever there is a change in a value of interest. Then, the fragment just listens (observes) the viewmodel and updates its fields, whenever the viewmodel notes a new values. Using this approach, you even further separate the logic (in the viewmodel) from the display (view / fragment). As this approach needs some additional concepts like Flows and Co-Routines, I've kept them out for the moment. In case you want to dive deep (don't...):
+At the moment, we are explicitly reading the values from our viewmodel to get new values into our fragment. There is another, cooler way to do this. In short, you tell the viewmodel to inform the fragment whenever there is a change in a value of interest. Then, the fragment just listens (observes) the viewmodel and updates its fields, whenever the viewmodel notes a new values. Using this approach, you even further separate the logic (in the viewmodel) from the display (view / fragment). As this approach needs some additional concepts like Flows and Co-Routines, I've kept them out for the moment. In case you want to dive deep:
 
 - [StateFlow and SharedFlow](https://developer.android.com/kotlin/flow/stateflow-and-sharedflow)
 - [The Ultimate Guide to Kotlin Flows](https://www.youtube.com/watch?v=ZX8VsqNO_Ss&list=PLQkwcJG4YTCQHCppNAQmLsj_jW38rU9sC)
