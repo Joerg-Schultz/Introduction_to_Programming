@@ -1,5 +1,16 @@
 ## An introductory course to programming (not only) for Biologists
 
+## Content
+
+[What is this course about?](#overview)
+
+[Learn Kotlin and Android Programming](#teaching-units)
+
+[Use up-to-date programming Tools](#programming-tools)
+
+[Program your own app (and deploy it to the Play Store)](#program-your-own-app)
+
+
 ### Overview
 
 #### Why might this course be interesting for you?
@@ -55,10 +66,14 @@ Programming Tools
 4. [Data Types](./VariablesAndDataTypes/datatypes.md): Where you store different things in variables.
 5. [Android: Your First Program](./DiceApp/emptyproject.md): Where you will generate your first Android program!
 
+[Bonus Section](./ProgrammingTools/git.md): Get a first idea about versioning (whoa, what's that???) by working through the Theory section.
+
 #### 2. Functions
 6. [Functions](./Functions/functions.md): Where you will give parts of your code a name to execute from everywhere in your code. 
 7. [Android: Change Text](./DiceApp/changetext.md): Where you will change the text of a TextView programmatically.
 8. [Android: Add a Button](./DiceApp/addbutton.md): Wehre you will add a Button which changes it text when clicked.
+
+[Bonus Section](./ProgrammingTools/git.md): Put all your App code into a repository by following the first action point.
 
 #### 3. Control statements
 9. [if Statements (and Booleans)](./ControlStatements/ifstatements.md): Where you will learn how to test for conditions and then conditionally execute code.
@@ -79,31 +94,35 @@ Programming Tools
 20. [Visibility](./Classes/visibility.md): Where you will hide variables and functions from outside observers.
 21. [Android: generate a dice class](./DiceApp/classes.md): Where you will code your first class and extract functionality from the fragment into the class.
 22. [Android: generate a coin class using inheritance](./DiceApp/inheritance.md): Where you will use inheritance to generate a new Coin class.
-22. [Exercise](./Classes/animal_farm.md): Where you will write your own object-oriented program :-)
+23. [Exercise](./Classes/animal_farm.md): Where you will write your own object-oriented program :-)
+    
+[Bonus Section](./ProgrammingTools/documentation.md): Learn how to document your code! Check the 'Code Documentation' and 'API Documentation' sections and install Dokka!
 
 #### 6. MVVM + View binding
 
-23. [ViewModels](DiceApp/viewmodel.md): Where you will keep information even when rotating your phone
-24. [View Binding](DiceApp/viewbinding.md): Where you will learn a cooler way to interact with your UI elements.
+23. [Android: ViewModels](./DiceApp/viewmodel.md): Where you will keep information even when rotating your phone
+24. [Android: View Binding](./DiceApp/viewbinding.md): Where you will learn a cooler way to interact with your UI elements.
 
 
-#### 7. Navigation 
+#### 7. Navigation
 
+26. [Android: navigate to history view](./DiceApp/navigation.md): Where you will move to a new 'view' which shows the history of all dice throws.
 
 #### 8. RecyclerView
 
+27. [Android: Recyclerview](./DiceApp/recyclerview.md): Where you will make the history scrollable. 
 
 #### 9. Programming Tools
 
-I don't see this as an extra 'lecture'. Work through these topics while programming your own app and gradually start adopting them.
+I don't see this as an extra 'lecture'. Work through these topics while programming your own app and gradually start adopting them. Still, I sprinkled some of the topics as 'bonus sections' in the Teaching units.
 
-**Git and GitHub**
-Just view the [Git for Android Developers Series](https://www.youtube.com/watch?v=zqo08bQXU4Q&list=PLQkwcJG4YTCQTEk4J4btiOJBV0PhKjJVS) and get your own version of our DiceApp up to GitHub.
+1. [Versioning](./ProgrammingTools/git.md)
+2. [Documentation](./ProgrammingTools/documentation.md)
+3. [Testing](./ProgrammingTools/testing.md)
 
-[Documentation](./ProgrammingTools/documentation.md)
+**Debugging**
 
-**Testing**
-
+A debugger can help you a lot when your programming is compiling (it is syntactically correct) but not doing what you want it to do. With a debugger you can step through your program and inspect the value of variables and any step (among other cool things).Nicely, the IntelliJ IDE has a debugger integrated. You can check a less than 10 min summary in [this video](https://www.youtube.com/watch?v=lAWnIP1S6UA).
 
 #### Program your own App!
 
