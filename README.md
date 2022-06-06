@@ -114,7 +114,7 @@ Programming Tools
 
 27. [Android: Recyclerview](./DiceApp/recyclerview.md): Where you will make the history scrollable. 
 
-#### 9. Programming Tools
+#### Programming Tools
 
 I don't see this as an extra 'lecture'. Work through these topics while programming your own app and gradually start adopting them. Still, I sprinkled some of the topics as 'bonus sections' in the Teaching units.
 
